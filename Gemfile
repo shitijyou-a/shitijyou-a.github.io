@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'programming-pages'
+gem 'github-pages'

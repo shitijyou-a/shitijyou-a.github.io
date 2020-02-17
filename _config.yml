@@ -1,9 +1,5 @@
 plugins:
     - jemoji
-    - jekyll-remote-theme
-
-theme: 'programming-pages'
-# remote_theme: pixeldroid/programming-pages
 
 title: 七条彰紀のノート
 project:
