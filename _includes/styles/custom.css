@@ -1,0 +1,10 @@
+/*
+ * CSS customizations
+ *
+ * this file is included after all other stye sheet files
+ * you can add rules here that will take precedence over any already defined by the theme
+ */
+
+.ui.vertical.menu{ width:20rem }
+.ui.input{ max-width:15rem;margin-left:auto;margin-right:auto }
+.pusher #page-container{ margin-left: 20rem }

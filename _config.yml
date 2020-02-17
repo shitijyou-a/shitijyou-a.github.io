@@ -1,0 +1,29 @@
+plugins:
+    - jemoji
+    - jekyll-remote-theme
+
+theme: 'programming-pages'
+# remote_theme: pixeldroid/programming-pages
+
+title: 七条彰紀のノート
+project:
+  name: 七条彰紀のノート
+  owner: shitijyou-a
+  repo: https://github.com/shitijyou-a/shitijyou-a.github.io
+  version: 2020-02-17
+
+collections:
+    math:
+        output: true
+        title: 数学
+        permalink: "/math/:path/"
+        tab-order: 1
+
+highlighter: rouge
+
+kramdown:
+  footnote_backlink: "⮌"
+  permalink: pretty
+
+sass:
+  style: compressed
