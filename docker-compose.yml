@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  api:
+    image: jekyll/jekyll:pages
+    container_name: github-pages-local
+    volumes:
+      - ./:/usr/src/app
+    working_dir: /usr/src/app
+    command: sh -c 'jekyll serve -s /usr/src/app --watch'
+    ports:
+      - 80:4000
