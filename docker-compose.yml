@@ -9,3 +9,13 @@ services:
     command: sh -c 'jekyll serve -s /usr/src/app --watch'
     ports:
       - 80:4000
+
+  api-inc:
+    image: jekyll/jekyll:pages
+    container_name: github-pages-local2
+    volumes:
+      - ./:/usr/src/app
+    working_dir: /usr/src/app
+    command: sh -c 'jekyll serve -s /usr/src/app --watch --incremental'
+    ports:
+      - 80:4000
