@@ -6,7 +6,7 @@ project:
   name: 七条彰紀のノート
   owner: shitijyou-a
   repo: https://github.com/shitijyou-a/shitijyou-a.github.io
-  version: 2020-02-17
+  version: 2020/Feb
 
 collections:
     math:
