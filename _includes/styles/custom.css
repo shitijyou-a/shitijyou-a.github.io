@@ -13,6 +13,17 @@
     max-width: 25cm;
 }
 
+/** モバイルデバイス（画面幅が767px以下）用の設定 **/
+@media only screen and (max-width: 767px) {
+    #site-title .header .text {
+      min-width: 6rem;
+    }
+    .pusher #page-container {
+        margin-left: inherit;
+        max-width: 25cm;
+    }
+}
+
 /** 題目と成る文字の色，背景色，余白の調整 **/
 h1, h2, h3, h4, h5 {
     color: #212121;
