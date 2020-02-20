@@ -1,5 +1,6 @@
 plugins:
     - jemoji
+    - jekyll-sitemap
 
 title: 七条彰紀のノート
 project:
