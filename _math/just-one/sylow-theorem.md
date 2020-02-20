@@ -2,8 +2,8 @@
 layout: page
 title: Sylowの定理
 description: 有限群の位数と部分群に関する Sylow の定理の証明．
-blob_url: https://github.com/shitijyou-a/MathNotes/blob/master/SylowTheorem/sylow.pdf
-raw_url: https://github.com/shitijyou-a/MathNotes/raw/master/SylowTheorem/sylow.pdf
+pdf_blob: https://github.com/shitijyou-a/MathNotes/blob/master/SylowTheorem/sylow.pdf
+pdf_raw: https://github.com/shitijyou-a/MathNotes/raw/master/SylowTheorem/sylow.pdf
 ---
 
 # 概要
@@ -23,11 +23,4 @@ Sylowの定理は次の定理です．
 > 1. 任意の$p$-Sylow部分群$P$について $\lvert\Syl_p(G)\rvert = [G : \operatorname{Norm}_G(P)]$
 > 1. $\lvert\Syl_p(G)\rvert$ は $m$ の約数である．
 
-[PDFファイルへ]({{ page.blob_url}})（"Download"からダウンロードできます．）
-<div style="text-align: center;">
-<iframe
-    src="https://docs.google.com/viewer?url={{ page.raw_url }}&embedded=true"
-    width="100%"
-    height="640px">
-</iframe>
-</div>
+{% include /elements/embedded-pdf.html %}

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Hilbertの零点定理
+pdf_blob: https://github.com/shitijyou-a/MathNotes/blob/master/HilbeltsNullstellensatz/main.pdf
+pdf_raw: https://github.com/shitijyou-a/MathNotes/raw/master/HilbeltsNullstellensatz/main.pdf
 ---
 
 # 概要
@@ -11,10 +13,4 @@ Hilbertの零点定理 (独: Hilbelts Nullstellensatz) は，代数幾何学で�
 このノートでは，私が好きな「Zariskiの補題」を中継点とする証明を与えます．
 最後のセクションでは他の方針についてキーワードだけ纏めています（いつか詳しく書きたいです）．
 
-<div style="text-align: center;">
-<iframe
-    src="https://docs.google.com/viewer?url=https://github.com/shitijyou-a/MathNotes/raw/master/HilbeltsNullstellensatz/main.pdf&embedded=true"
-    width="100%"
-    height="640px">
-</iframe>
-</div>
+{%include /elements/embedded-pdf.html %}
