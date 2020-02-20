@@ -22,11 +22,16 @@ description: 七条彰紀の成果物まとめ
 ### SNS
 私が使っているSNSは以下で挙げる通り．
 
-- [twitter](https://twitter.com/shitijyou)
-- [GitHub](https://github.com/shitijyou-a/)
+|--|--|
+|[Twitter](https://twitter.com/shitijyou)|<a href="https://twitter.com/shitijyou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @shitijyou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
+|[GitHub](https://github.com/shitijyou-a/)|<a class="github-button" href="https://github.com/shitijyou-a" data-size="large" aria-label="Follow @shitijyou-a on GitHub">Follow @shitijyou-a</a>|
 
 # 著作権
 [このページ](https://shitijyou-a.github.io)はJekyllとprogramming pagesを用いて作成されています．
 [このページ](https://shitijyou-a.github.io)のうち，
 上記の外部パッケージに由来しない部分について，
 その利用は著作権法に定められている範囲で許されます．
+
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
