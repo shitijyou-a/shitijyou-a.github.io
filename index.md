@@ -15,12 +15,9 @@ description: 七条彰紀の成果物まとめ
 読みは「シチジョウ アキノリ」です．
 これは本名ではありません．
 
-代数幾何学を専門とする数学者です．
+代数幾何学を専門とする数学徒です．
 数学に限らず様々な学問を齧るのが楽しいと思っています．
 ですが数学以外のことで何か書くことは多くありません．
-
-### SNS
-私が使っているSNSは以下で挙げる通り．
 
 |--|--|
 |[Twitter](https://twitter.com/shitijyou)|<a href="https://twitter.com/shitijyou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @shitijyou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
