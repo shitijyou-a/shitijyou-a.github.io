@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Sylowの定理
-description: 有限群の位数と部分群に関する Sylow の定理の証明．
+description: 有限群の位数と部分群に関する Sylow の定理（シローの定理）の証明．
 pdf_blob: https://github.com/shitijyou-a/MathNotes/blob/master/SylowTheorem/sylow.pdf
 pdf_raw: https://github.com/shitijyou-a/MathNotes/raw/master/SylowTheorem/sylow.pdf
 ---
 
 # 概要
 これは Keith Conrad 氏のノート ["The Sylow Theorems"](http://www.math.uconn.edu/~kconrad/blurbs/grouptheory/sylowpf.pdf)を元にした，
-Sylow の定理の証明とその応用についてのノートです．
-Sylowの定理は次の定理です．
+Sylow （シロー）の定理の証明とその応用についてのノートです．
+Sylow の定理は次の定理です．
 
 > $ \newcommand{\Syl}{\operatorname{Syl}} $
 > 任意の有限群$G$について，

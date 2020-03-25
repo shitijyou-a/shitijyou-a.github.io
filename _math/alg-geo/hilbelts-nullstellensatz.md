@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hilbertの零点定理
+description: Hilbertの零点定理, ヒルベルトの零点定理，Hilbelts Nullstellensatz
 pdf_blob: https://github.com/shitijyou-a/MathNotes/blob/master/HilbeltsNullstellensatz/main.pdf
 pdf_raw: https://github.com/shitijyou-a/MathNotes/raw/master/HilbeltsNullstellensatz/main.pdf
 ---

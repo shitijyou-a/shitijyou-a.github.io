@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cantor-Schröder-Bernstein の定理
-description: 集合の濃度に関する Cantor-Schröder-Bernstein（その他多数）の定理の証明
+title: Cantor-Bernstein-Schröder の定理
+description: 集合の濃度に関する Cantor-Bernstein-Schröder（カントール-ベルンシュタイン-シュレーダー）の定理の証明
 pdf_blob: https://github.com/shitijyou-a/MathNotes/blob/master/BernsteinTheorem/bernstein.pdf
 pdf_raw: https://github.com/shitijyou-a/MathNotes/raw/master/BernsteinTheorem/bernstein.pdf
 ---
