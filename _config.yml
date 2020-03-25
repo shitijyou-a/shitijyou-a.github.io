@@ -1,13 +1,14 @@
 plugins:
     - jemoji
     - jekyll-sitemap
+    - jekyll-seo-tag
 
 title: 七条彰紀のノート
 project:
   name: 七条彰紀のノート
   owner: shitijyou-a
   repo: https://github.com/shitijyou-a/shitijyou-a.github.io
-  version: 2020/Feb
+  version: 2020/March
 
 collections:
     math:
