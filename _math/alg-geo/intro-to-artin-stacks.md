@@ -13,7 +13,7 @@ Artin スタック（別名：代数的スタック，代数的園）への入�
 
 # 入門した後
 入門した後の話題についても知る限り書いておきます．
-少し古いですが，Mr. J. Aplerが2009年に書いた
+少し古いですが，Mr. J. Alperが2009年に書いた
 ["A Guide to the Literature on Algebraic Stacks"](https://maths-people.anu.edu.au/~alperj/papers/stacks-guide.pdf)は
 Artin スタックに関する様々な話題への案内に成っています．
 
