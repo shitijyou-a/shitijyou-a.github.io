@@ -82,3 +82,6 @@ section 2 "Cohomology of Sheaves"についてだけ，数問解答を書きま�
 # 第4章以降
 解答を作成していません．
 [Githubで"Hartshorne"と検索する](https://github.com/search?p=1&q=hartshorne&type=Repositories)と解答が見つかることがあります．
+
+# その他（便利なリンク）
+- [ハーツホーン「代数幾何学」のノート by Seasawher](https://github.com/Seasawher/hartshorne)
